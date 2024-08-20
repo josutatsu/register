@@ -1,0 +1,14 @@
+{
+    "description": "Las bizarras aventuras de Juandi y Jhosua",
+    "domain": "losnekitosuwu.dev",
+
+    "owner": {
+        "email": "josutatsu@gmail.com"
+    },
+
+    "record": {
+        "A": ["10.01.15.89"],
+    },
+
+    "proxied": false
+}
